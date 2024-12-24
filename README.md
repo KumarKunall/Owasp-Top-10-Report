@@ -5,8 +5,10 @@ Owasp Top 10 identify us what the vulnerabilities is, how it will happen and how
 Chapter 2 -> Injection
 In this vulnerability it happens when user input the data or command and the server performs action or executes without sanitizing the input then it is known as injection vulnerability.
 It is of types when we pass SQL queries then it is called SQL injection another one is when we pass some commands and it executes according to attacker’s need.
+
 Preventions:
 •	We defined some parameters of characters which is used.
+
 •	Sanitize the input.
 
 Chapter 3 -> Broken Authentication
